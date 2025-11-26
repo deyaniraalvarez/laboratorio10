@@ -12,7 +12,7 @@
         let esestudiante=true;
         console.log("\n Nombre:",nombre);
         console.log("edad:", edad);
-        console.log("es estudiante: 0,esestudiante");
+        console.log("es estudiante: ",esestudiante);
     </script>
       
     <main>
